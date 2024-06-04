@@ -25,7 +25,7 @@ void swap_ints(int *a, int *b)
  * @array: array of integers.
  * @size:  size of the array.
  * @left: The starting index
- * @right: The ending index 
+ * @right: The ending index
  *
  * Return: The final partition index.
  *
